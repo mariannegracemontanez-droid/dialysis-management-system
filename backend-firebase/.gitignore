@@ -1,0 +1,34 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Firebase
+.runtimeconfig.json
+.firebaserc
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Dist
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Functions
+functions/lib/
+
+# Logs
+*.log
+logs/

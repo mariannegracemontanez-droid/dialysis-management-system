@@ -1,0 +1,42 @@
+# Dart
+.dart_tool/
+.packages
+pubspec.lock
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Flutter
+.DS_Store
+local.properties
+.vscode/
+
+# Android
+.gradle/
+.android/
+android/local.properties
+android/.gradle/
+android/build/
+android/app/release/
+
+# iOS
+ios/.symlinks/
+ios/.generated.pbxproj
+ios/Flutter/Flutter.podspec
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.modulemap
+ios/Flutter/GeneratedPluginRegistrant.*
+ios/Runner/GeneratedPluginRegistrant.*
+ios/Pods/
+ios/Podfile.lock
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*.iml
+
+# Environment
+.env
+.env.local
